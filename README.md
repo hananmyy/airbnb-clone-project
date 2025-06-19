@@ -123,7 +123,7 @@ CI/CD pipelines automate the process of building, testing, and deploying code, e
 
 
 
-##  UI/UX DESIGN PLANNING
+##  UI/UX Design Planning
 
 ### Design Goals
 
@@ -151,7 +151,7 @@ CI/CD pipelines automate the process of building, testing, and deploying code, e
 
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
----
+
 
 ##  Figma Design Specifications
 
@@ -176,7 +176,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 
 Identifying design properties such as color and typography ensures visual consistency, aligns the frontend implementation with the mockups, and enhances user experience. It also makes collaboration between designers and developers smoother.
 
----
+
 
 ##  Project Roles and Responsibilities
 
@@ -191,7 +191,7 @@ Identifying design properties such as color and typography ensures visual consis
 | Product Owner       | Defines requirements, prioritizes features, represents stakeholders              |
 | Scrum Master        | Facilitates agile processes, removes blockers, organizes meetings                |
 
----
+
 
 ##  UI Component Patterns
 
